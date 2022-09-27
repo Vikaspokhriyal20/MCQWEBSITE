@@ -1,2 +1,2 @@
-# MCQWEBSITE
-MCQ website demo project
+# mymcq
+mcq website demo project
